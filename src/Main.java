@@ -11,7 +11,7 @@ public class Main {
 
         for (int i = 1; i <= 5; i++) {
             JFrame myFrame=new JFrame();
-            myFrame.setSize(700,700);
+            myFrame.setSize(900,700);
             myFrame.setVisible(true);
             myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             myFrame.setTitle("Hi Nigger");
